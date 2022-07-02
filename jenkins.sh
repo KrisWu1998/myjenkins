@@ -12,4 +12,4 @@ echo "清空nginx下的文件"
 rm -rf '/usr/share/nginx/html/dist'
 
 echo "将jenkins打包的文件拷贝到nginx下"
-cp -r '/var/lib/jenkins/workspace/mywebsite/dist' '/usr/share/nginx/html/dist'
+cp -r '/var/lib/jenkins/workspace/部署viete/dist' '/usr/share/nginx/html/dist'
