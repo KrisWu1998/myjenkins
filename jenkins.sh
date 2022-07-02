@@ -1,6 +1,4 @@
-#!/bin/bash
-source ~/.bash_profile
-source /etc/profile
+#!/bin/sh -ilex
 
 echo "开始执行了vue脚本文件"
 
